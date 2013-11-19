@@ -1,8 +1,8 @@
 package rbac
 
 import (
-	c "github.com/osgochina/admin/controllers"
-	m "github.com/osgochina/admin/models/rbacmodels"
+	c "github.com/linphy/admin/controllers"
+	m "github.com/linphy/admin/models/rbacmodels"
 )
 
 type UserController struct {

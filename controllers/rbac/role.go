@@ -2,11 +2,11 @@ package rbac
 
 import (
 	"encoding/json"
-	m "github.com/osgochina/admin/models/rbacmodels"
+	m "github.com/linphy/admin/models/rbacmodels"
 	//"fmt"
-	"github.com/astaxie/beego/orm"
 	j "github.com/bitly/go-simplejson"
-	c "github.com/osgochina/admin/controllers"
+	c "github.com/linphy/admin/controllers"
+	"github.com/linphy/beego/orm"
 	"strconv"
 	"strings"
 )

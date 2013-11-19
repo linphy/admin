@@ -2,7 +2,7 @@ package controllers
 
 import (
 	//"fmt"
-	m "github.com/osgochina/admin/models/rbacmodels"
+	m "github.com/linphy/admin/models/rbacmodels"
 )
 
 type MainController struct {

@@ -2,10 +2,10 @@ package rbacmodels
 
 import (
 	"errors"
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/orm"
-	"github.com/astaxie/beego/validation"
-	"github.com/osgochina/admin/lib"
+	"github.com/linphy/admin/lib"
+	"github.com/linphy/beego"
+	"github.com/linphy/beego/orm"
+	"github.com/linphy/beego/validation"
 	"log"
 	"time"
 )

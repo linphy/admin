@@ -2,8 +2,8 @@ package rbacmodels
 
 import (
 	"fmt"
-	"github.com/astaxie/beego/orm"
-	"github.com/osgochina/admin/lib"
+	"github.com/linphy/admin/lib"
+	"github.com/linphy/beego/orm"
 )
 
 var o orm.Ormer

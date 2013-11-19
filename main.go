@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/astaxie/beego"
-	//"github.com/astaxie/beego/orm"
-	"github.com/osgochina/admin/controllers"
-	"github.com/osgochina/admin/controllers/rbac"
-	"github.com/osgochina/admin/lib"
-	"github.com/osgochina/admin/models/rbacmodels"
+	"github.com/linphy/beego"
+	//"github.com/linphy/beego/orm"
+	"github.com/linphy/admin/controllers"
+	"github.com/linphy/admin/controllers/rbac"
+	"github.com/linphy/admin/lib"
+	"github.com/linphy/admin/models/rbacmodels"
+	_ "github.com/linphy/go-oci8"
 	"os"
 )
 

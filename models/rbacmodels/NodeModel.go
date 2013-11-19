@@ -2,9 +2,9 @@ package rbacmodels
 
 import (
 	"errors"
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/orm"
-	"github.com/astaxie/beego/validation"
+	"github.com/linphy/beego"
+	"github.com/linphy/beego/orm"
+	"github.com/linphy/beego/validation"
 	"log"
 )
 

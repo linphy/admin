@@ -2,9 +2,9 @@ package rbac
 
 import (
 	"fmt"
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/context"
-	m "github.com/osgochina/admin/models/rbacmodels"
+	m "github.com/linphy/admin/models/rbacmodels"
+	"github.com/linphy/beego"
+	"github.com/linphy/beego/context"
 	"strconv"
 	"strings"
 )
